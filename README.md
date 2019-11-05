@@ -1,4 +1,5 @@
 # RevolutBackend
+CORS NOT ENABLED MUST USE POSTMAN OR API CLIENT
 
 Maven Project that will run from the command line the endpoints are as follows
 Bare Bones for the restful service!
